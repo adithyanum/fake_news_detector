@@ -42,15 +42,6 @@ A Natural Language Processing (NLP) project that uses **TF-IDF vectorization** a
 
 ---
 
-## 🧪 Notebooks
-
-| Notebook | Description |
-|----------|-------------|
-| `fake_news_detector.ipynb` | Main model pipeline: preprocessing, training, evaluation |
-| `real_news_test.ipynb` *(coming soon)* | Test model on unseen, real-world news |
-
----
-
 ## 💾 Model Files
 
 Model and vectorizer are saved as:
